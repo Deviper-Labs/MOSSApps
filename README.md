@@ -1,2 +1,2 @@
 # MOSSApps
-Repository containing all my projects to be built to executables
+Repository containing a template project used for compiling my python projects into an executable
