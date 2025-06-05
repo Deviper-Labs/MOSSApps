@@ -2,8 +2,6 @@ name: Compile Python with Nuitka for multiple platforms
 run-name: ${{ github.actor }} has started a compilation
 
 on:
-  schedule:
-    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 jobs:
