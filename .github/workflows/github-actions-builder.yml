@@ -35,6 +35,7 @@ jobs:
         with:
           nuitka-version: main
           working-directory: app/
+          output-dir: ../build
           script-name: main.py
           mode: standalone
           enable-plugins: |
